@@ -1,0 +1,9 @@
+html{
+    display: table;
+    justify-content: center;
+}
+.box1{
+    text-align: center;
+    border: 5px solid black;
+    margin: auto;
+}
